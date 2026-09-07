@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hellowould/Hellowould.vcxproj" Id="b48c57f4-c85e-42b5-8e7c-020b22279935" />
+</Solution>

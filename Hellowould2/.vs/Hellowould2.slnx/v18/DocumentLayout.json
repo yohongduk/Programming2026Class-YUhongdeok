@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\Programming2026Class-YUhongdeok\\Hellowould2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B4903E-0EE8-43BF-A39F-007DE151B0A2}|Hellowould2\\Hellowould2.vcxproj|C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\Programming2026Class-YUhongdeok\\Hellowould2\\Hellowould2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80B4903E-0EE8-43BF-A39F-007DE151B0A2}|Hellowould2\\Hellowould2.vcxproj|solutionrelative:Hellowould2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\Programming2026Class-YUhongdeok\\Hellowould2\\Hellowould2\\main.cpp",
+              "RelativeDocumentMoniker": "Hellowould2\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\Programming2026Class-YUhongdeok\\Hellowould2\\Hellowould2\\main.cpp",
+              "RelativeToolTip": "Hellowould2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-07T08:49:18.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
