@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Hellowould2/Hellowould2.vcxproj" />
+  <Project Path="Hellowould2/Hellowould2.vcxproj" Id="80b4903e-0ee8-43bf-a39f-007de151b0a2" />
 </Solution>
