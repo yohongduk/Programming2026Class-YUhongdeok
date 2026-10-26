@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA20C8-1914-4FB5-95DC-93EFEA620616}|\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30.vcxproj|C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BACA20C8-1914-4FB5-95DC-93EFEA620616}|\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 \uC720\uD64D\uB355\\\uD56D\uACF5\uAE30\uACC4\uACF5\uD559\uACFC 2023010615 2\uD559\uB144  \uC720\uD64D\uB355 \uC5D0\uB108\uC9C0 \uACC4\uC0B0\uAE30\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T07:35:53.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
