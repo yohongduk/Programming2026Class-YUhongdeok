@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "항공기계공학과 .baca20c8\\x64\\Debug\\main.obj",
+            "outputs": [
+                "항공기계공학과 .baca20c8\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "항공기계공학과 .baca20c8\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
